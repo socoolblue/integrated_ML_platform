@@ -24,7 +24,13 @@ bash
 ```
  project/
 │
+├── 5-Fold Cross Validation with Hold-Out Dataset .ipynb
 ├── 6-Fold Cross Validation.ipynb
+├── 8-Fold Cross Validation with Hold-Out Dataset.ipynb
+├── 9-Fold Cross Validation.ipynb
+├── HRS.ipynb
+├──Leave-one-out Cross Validation.ipynb
+├──phosphor data.csv
 └── README.md
 ```
 
