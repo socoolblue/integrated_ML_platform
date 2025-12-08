@@ -1,4 +1,4 @@
-# 세종대학교 소재허브 AI 기반 소재 설계 자동화 플랫폼 - Integrated Machine Learning Platform (IMLP)
+# 세종대학교 소재허브 AI 기반 소재 설계 자동화 플랫폼 Integrated Machine Learning Platform (IMLP)
 
 Integrated Machine Learning Platform(IMLP)은 세종대학교 소재허브 연구단에서 신소재 개발 가속화를 위해 구축한 AI 기반 기계학습 통합 플랫폼입니다. 복잡하고 비선형적인 재료 시스템의 상관관계를 정밀하게 분석하며, 단일 모델의 한계를 극복하기 위해 여러 머신러닝(ML) 및 딥러닝(DL) 모델을 병렬적으로 학습하고 검증합니다. IMLP는 기존의 경험적 방식에서 벗어나, 데이터 기반의 지능형 예측 및 최적 설계 환경을 구현합니다.
 
