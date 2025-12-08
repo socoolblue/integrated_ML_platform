@@ -81,5 +81,8 @@ E --> F[Aggregate Results]
 F --> G[Output Mean Metrics]
 ```
 
+## 레퍼런스
+Lee, J.-W., Park, C., Lee, B.D., Park, J., Goo, N.H., & Sohn, K.-S. A machine-learning-based alloy design platform that enables both forward and inverse predictions for thermo-mechanically controlled processed (TMCP) steel alloys.
+
 ## 라이선스
 이 저장소의 코드는 MIT 라이선스를 따릅니다.
