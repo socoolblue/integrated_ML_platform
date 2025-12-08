@@ -82,4 +82,4 @@ F --> G[Output Mean Metrics]
 ```
 
 ## 라이선스
-필요시 MIT License 등으로 오픈소스화 가능합니다.
+이 저장소의 코드는 MIT 라이선스를 따릅니다.
